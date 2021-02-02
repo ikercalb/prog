@@ -126,6 +126,6 @@ public class admin extends JFrame {
 		btnNewButton.setBounds(301, 200, 89, 23);
 		contentPane.add(btnNewButton);
 		
-		
+		System.out.printl("kjsdfhjfds");
 	}
 }
